@@ -1,0 +1,1 @@
+# cypress_best_practices
